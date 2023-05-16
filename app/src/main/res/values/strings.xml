@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="country">
+        <item>aa</item>
+        <item>bb</item>
+        <item>cc</item>
+        <item>dd</item>
+        <item>ee</item>
+        <item>gg</item>
+        <item>hh</item>
+        <item>ii</item>
+        <item>jj</item>
+        <item>kk</item>
+
+
+
+
+    </string-array>
+</resources>
